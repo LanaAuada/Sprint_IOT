@@ -1,7 +1,7 @@
 # README -- Detector Facial com OpenCV
 
-Julia Amorim - RM99609
-Lana Leite - RM551143
+Julia Amorim - RM99609 \
+Lana Leite - RM551143 \
 Matheus Cavasini - RM97722
 
 ## Objetivo
