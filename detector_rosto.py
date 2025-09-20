@@ -1,3 +1,7 @@
+# Julia Amorim - RM99609
+# Lana Leite - RM551143
+# Matheus Cavasini - RM97722
+
 import cv2
 
 #Carrega o classificador Haar Cascade
